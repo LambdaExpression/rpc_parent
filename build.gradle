@@ -1,0 +1,28 @@
+group 'org.tcat.parent'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+
+    def gsonVersion = "2.8.0"
+    def commonsVersion = "3.5"
+    def junitVersion = '4.12'
+    def commonsIoVersion = "2.5"
+
+    compile("org.apache.commons:commons-lang3:$commonsVersion")
+    compile("commons-io:commons-io:$commonsIoVersion")
+    compile("com.google.code.gson:gson:$gsonVersion")
+
+    testCompile("junit:junit:$junitVersion")
+}

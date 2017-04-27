@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/api/api.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/api/api.iml" group="sample/api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/api/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/api/api_main.iml" group="sample/api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/api/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/api/api_test.iml" group="sample/api" />
+      <module fileurl="file://$PROJECT_DIR$/sample/.idea/modules/client.iml" filepath="$PROJECT_DIR$/sample/.idea/modules/client.iml" group="sample/client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/client/client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/client/client_main.iml" group="sample/client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/client/client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/client/client_test.iml" group="sample/client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rpc/rpc.iml" filepath="$PROJECT_DIR$/.idea/modules/rpc/rpc.iml" group="rpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rpc/rpc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rpc/rpc_main.iml" group="rpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rpc_parent.iml" filepath="$PROJECT_DIR$/.idea/modules/rpc_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rpc_parent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rpc_parent_main.iml" group="rpc_parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rpc_parent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rpc_parent_test.iml" group="rpc_parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rpc/rpc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rpc/rpc_test.iml" group="rpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/sample.iml" group="sample" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/modules/server.iml" filepath="$PROJECT_DIR$/../untitled/.idea/modules/server.iml" group="sample/server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/server/server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/server/server_main.iml" group="sample/server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/server/server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/server/server_test.iml" group="sample/server" />
+    </modules>
+  </component>
+</project>

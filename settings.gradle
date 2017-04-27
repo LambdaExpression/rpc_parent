@@ -1,0 +1,9 @@
+rootProject.name = 'rpc_parent'
+include 'rpc'
+include 'sample:server'
+findProject(':sample:server')?.name = 'server'
+include 'sample:client'
+findProject(':sample:client')?.name = 'client'
+include 'sample:api'
+findProject(':sample:api')?.name = 'api'
+
