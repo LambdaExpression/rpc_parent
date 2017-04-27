@@ -37,7 +37,8 @@ dependencies {
     compile(project(":rpc"))
     compile(project(":sample:api"))
     compile("org.springframework.boot:spring-boot-starter-web")
-    compile("org.springframework.boot:spring-boot-starter-test")
+    compile("org.springframework.boot:spring-boot-starter-jta-narayana")
+    testCompile("org.springframework.boot:spring-boot-starter-test")
 }
 
 sourceSets {
